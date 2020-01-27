@@ -1,0 +1,4 @@
+{
+  "mongoUri": "your_mongo_atlas_link",
+  "serviceToken": "your_service_token_here"
+}
